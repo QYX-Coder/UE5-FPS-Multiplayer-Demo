@@ -76,13 +76,17 @@ how2/
 
 ##  演示视频
 
-项目仓库中包含完整游戏演示视频（`.mp4`），展示了以下全流程：
+项目仓库中包含完整游戏演示视频，展示了以下全流程：
 
 1. 多人联机（双人）连接建立
 2. 玩家协同作战 → 击杀 AI 敌人
 3. 实时计分变化
 4. 收集道具
 5. 触发胜利条件 → 结算界面
+
+<video src="https://github.com/QYX-Coder/UE5-FPS-Multiplayer-Demo/raw/master/%E4%B9%94%E5%A5%95%E7%92%87-%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-UE%E6%B8%B8%E6%88%8F%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A.mp4" controls width="100%"></video>
+
+> ️ 如果视频无法在线播放，可直接 [下载观看](./%E4%B9%94%E5%A5%95%E7%92%87-%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-UE%E6%B8%B8%E6%88%8F%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A.mp4)
 
 ---
 
