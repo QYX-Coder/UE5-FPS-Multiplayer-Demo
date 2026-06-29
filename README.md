@@ -84,9 +84,9 @@ how2/
 4. 收集道具
 5. 触发胜利条件 → 结算界面
 
-<video src="https://github.com/QYX-Coder/UE5-FPS-Multiplayer-Demo/releases/download/v1.0.0/%E4%B9%94%E5%A5%95%E7%92%87-%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-UE%E6%B8%B8%E6%88%8F%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A.mp4" controls width="100%"></video>
+![演示视频预览](demo-preview.gif)
 
-> ️ 如果视频无法在线播放，可直接 [下载观看](https://github.com/QYX-Coder/UE5-FPS-Multiplayer-Demo/releases/download/v1.0.0/%E4%B9%94%E5%A5%95%E7%92%87-%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-UE%E6%B8%B8%E6%88%8F%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A.mp4)
+>  完整视频 [下载观看](https://github.com/QYX-Coder/UE5-FPS-Multiplayer-Demo/releases/download/v1.0.0/%E4%B9%94%E5%A5%95%E7%92%87-%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-UE%E6%B8%B8%E6%88%8F%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A.mp4)
 
 ---
 
