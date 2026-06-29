@@ -1,0 +1,51 @@
+# Unreal Engine 5 - Generated/Derived Files
+
+# Visual Studio / IDE
+.vs/
+*.suo
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+*.code-workspace
+
+# Unreal Engine - Build / Intermediate / Derived
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.xcworkspace/
+*.xcodeproj/
+
+# Unreal Engine - Specific Generated Files
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.cachefile
+*.VC.VC.opendb
+
+# Pak files (runtime packaged files)
+*.pak
+*.utoc
+*.ucas
+
+# Shader caches
+*.ushaderbytecode
+*.ushadercode
+
+# Content - autosaves
+Content/**/Autosaves/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*~
+
+# Backup files
+*.bak
+*.orig
